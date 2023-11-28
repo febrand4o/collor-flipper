@@ -1,6 +1,6 @@
-# Color Flipper Project
+# Color Flipper
 
-Este é um projeto simples chamado "Color Flipper" que gera cores aleatórias em formato RGB e as aplica dinamicamente ao fundo da página ao clicar no botão "Clique aqui".
+Este projeto gera cores aleatórias em formato RGB e as aplica dinamicamente ao fundo da página ao clicar no botão "Clique aqui".
 
 ## Como Funciona
 

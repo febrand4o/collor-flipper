@@ -1,0 +1,46 @@
+body{
+    background-color: yellow;
+}
+#id{
+    text-align: center;
+}
+div{
+    text-align: center;
+    display: block;
+    margin: 12% auto  0 auto;
+    background-color: rgb(53, 53, 53);
+    padding-top: 0.1cm;
+    padding-bottom: 0.5cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1cm;
+    border-radius: 5px;
+    width: 650px;
+}
+#titulo{
+    color: white;
+}
+#background{
+    display: inline;
+    color: white;
+}
+#color{
+    display: inline;
+    color:darkcyan;
+}
+p{
+    text-align: center;
+}
+#click{
+    margin: 5% auto 0 auto;
+    width: 150px;
+    border: solid rgb(53, 53, 53);
+    padding: 0.3cm;
+    font-size: 0.7cm;
+    display: block;
+    border-radius: 10px;
+}
+#click:hover{
+    color: white;
+    background-color:rgb(53, 53, 53);
+    transition: 0.3s;
+}
